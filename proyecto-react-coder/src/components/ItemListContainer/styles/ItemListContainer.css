@@ -1,0 +1,14 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+img{
+    width: 571px;
+    height: 411px;
+}
+.lista{
+    text-align: initial;
+    margin-left: 3rem;
+    list-style: none;
+}
